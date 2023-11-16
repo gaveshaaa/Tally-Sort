@@ -1,6 +1,6 @@
-# Counting Sort
+# Tally Sort
 
-Counting Sort is a simple sorting algorithm used to sort a collection of integers within a specific range
+Tally Sort is a simple sorting algorithm used to sort a collection of integers within a specific range
 
 ## Algorithm Overview
 
