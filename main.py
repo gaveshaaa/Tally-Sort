@@ -24,6 +24,6 @@ def copy_sort(arr):
     # Then we return the array
     return sorted_array
 
-print(copy_sort([700, 4, 5, 7, 3, 1]))
+print(copy_sort([-10, 4, 5, 7, 3, 1]))
 
 
