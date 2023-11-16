@@ -17,7 +17,7 @@ Hope that goes without explicitly saying.
 
 ### Considerations
 
-- Counting Sort works efficiently for a small range of integers.
+- Tally Sort works efficiently for a small range of integers.
 - Arrays with significantly large values, like [500000, 4, 5, 7, 3, 1], might take considerably longer due to the
   allocation of space for the large range of values, affecting the overall performance.
 
@@ -29,15 +29,15 @@ Hope that goes without explicitly saying.
 ## Examples
 
 ### Example 1:
-
+```
 Input Array: [4, 2, 5, 1, 3]
 Output: [1, 2, 3, 4, 5]
-
+```
 ### Example 2:
-
+```
 Input Array: [100, 5, 23, 87, 1, 42, 23]
 Output: [1, 5, 23, 23, 42, 87, 100]
-
+```
 ## Improve
 
 I dont't see much to improve in this code, its limited.
