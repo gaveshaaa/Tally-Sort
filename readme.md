@@ -21,11 +21,6 @@ Hope that goes without explicitly saying.
 - Arrays with significantly large values, like [500000, 4, 5, 7, 3, 1], might take considerably longer due to the
   allocation of space for the large range of values, affecting the overall performance.
 
-## Big O Complexity
-
-- **Time Complexity**: O(n + k), where n is the number of elements and k is the range of values.
-- **Space Complexity**: O(n + k)
-
 ## Examples
 
 ### Example 1:
